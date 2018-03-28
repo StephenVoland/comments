@@ -10,7 +10,6 @@ import numpy as np
 import pandas as pd
 from pprint import pprint 
 from scipy.special import expit
-import tensorflow as tf
 
 times = []
 print("Start ", str(datetime.datetime.now()))
